@@ -12,10 +12,6 @@ public static void main(String[] args) {
 	System.out.println(sp1);
 	sp1.count = sp1.count + 1;
 	System.out.println("Count " +sp.count);
-	
-	
-	
-	
-	
+		
 }
 }
